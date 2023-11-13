@@ -1,17 +1,4 @@
-# Xray-core/sing-box 一键脚本快速安装
-
-- [感谢 JetBrains 提供的非商业开源软件开发授权](https://www.jetbrains.com/?from=v2ray-agent)
-- [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
-
-- [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
-- [VPS选购攻略，避坑指南](https://www.v2ray-agent.com/archives/1679975663984)
-- [TG频道](https://t.me/v2rayAgentChannel)、[TG群组](https://t.me/technologyshare)、[官方网站](https://www.v2ray-agent.com/)
-- [RackNerd特价优质VPS深度评测](https://www.v2ray-agent.com/archives/1688973668640)
-- [传家宝级别搬瓦工（GIA、软银），强烈推荐](https://bandwagonhost.com/aff.php?aff=64917&pid=94)
-
-- **请给个⭐支持一下**
-
-# 一、项目介绍
+# ⭐Xray-core/sing-box 一键脚本快速安装
 
 ## 核心
 
@@ -61,38 +48,17 @@
 - [日本软银](https://www.v2ray-agent.com/tags/ruan-yin)
 - [CMI](https://www.v2ray-agent.com/tags/cmi)
 
-# 四、安装使用
+# ⭐安装使用
 
-## 1.下载脚本
+## 下载脚本
 
 - 支持快捷方式启动，安装完毕后，shell输入【**vasma**】即可打开脚本，脚本执行路径[**/etc/v2ray-agent/install.sh**]
 
-- Github
+- ⭐Github
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/oooobjective/xray/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
-
-- 官方网站【备用】
-
-```
-wget -P /root -N --no-check-certificate "https://www.v2ray-agent.com/v2ray-agent/install.sh" && chmod 700 /root/install.sh && /root/install.sh
-```
-
-## [2.脚本快速搭建教程](https://www.v2ray-agent.com/archives/1682491479771)
-
-# 四、反馈和建议
-
-> 如果您在使用过程中遇到任何问题或者有任何建议，欢迎在这里提交[issue](https://github.com/mack-a/v2ray-agent/issues)
-> ，或者[加入](https://t.me/technologyshare)这个电报群进行交流。
-
-# 五、捐赠
-
-> 感谢您对开源项目的关注和支持。如果您觉得这个项目对您有帮助，欢迎通过以下方式进行捐赠。
-
-[购买VPS捐赠](https://www.v2ray-agent.com/categories/vps)
-
-[通过虚拟币向我捐赠](https://www.v2ray-agent.com/1679123834836)
 
 # 六、许可证
 
